@@ -1,0 +1,12 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Description": "lenovo",
+    "Quantity": 30,
+    "SalePrice": 20,
+    "CostPrice": 50,
+    "CategoryId": 1,
+    "IsDeleted": false
+  }
+]

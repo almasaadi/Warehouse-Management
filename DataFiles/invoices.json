@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1001,
+    "EmployeeId": 2,
+    "EmployeeName": "Normal Employee",
+    "OrderId": 0,
+    "InvoiceDate": "2026-01-09T00:07:47.0189406+03:00",
+    "CustomerName": "Guest",
+    "Items": [
+      {
+        "ProductId": 1,
+        "ProductName": "Laptop",
+        "Quantity": 20,
+        "SalePrice": 20,
+        "SubTotal": 400
+      }
+    ],
+    "Total": 400
+  }
+]

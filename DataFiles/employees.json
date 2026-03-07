@@ -1,0 +1,26 @@
+[
+  {
+    "PersonalInfo": {
+      "FirstName": "System",
+      "LastName": "Admin",
+      "FullName": "System Admin",
+      "PhoneNumber": "0912345678"
+    },
+    "Id": 1,
+    "Username": "admin",
+    "Password": "Admin123",
+    "Role": 1
+  },
+  {
+    "PersonalInfo": {
+      "FirstName": "Normal",
+      "LastName": "Employee",
+      "FullName": "Normal Employee",
+      "PhoneNumber": "0987654321"
+    },
+    "Id": 2,
+    "Username": "user",
+    "Password": "User123",
+    "Role": 2
+  }
+]
